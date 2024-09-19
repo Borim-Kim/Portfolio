@@ -37,7 +37,7 @@
   
 - **GitHub Repository :** 깃허브 주소넣기
   
-- **Youtube 시연영상 :** https://youtu.be/fnaQsXtS86U?si=fzfcuZX-dKX0zrQl
+- **Youtube 시연영상 :** 
   
 - 영화 예매 웹사이트 프로젝트는 사용자 친화적인 인터페이스로 간편하게 영화 예매를 할 수 있는 웹사이트 개발 프로젝트라고 소개할 수 있습니다.
   
@@ -64,7 +64,7 @@
 `Java 11` `JavaScript` `HTML` `CSS` `Oracle 21C XE`
 
 - **담당역할 :** 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
-- **GitHub Repository :** https://github.com/Yang-Seungjae/JSPservlet/tree/master/WebMVC
+- **GitHub Repository :** 깃허브 주소넣기
 - 사용자들에게 편리한 서비스를 제공하는 것을 목적으로 하는 도서관 관리 프로그램을 만드는 것을 목표로 삼았습니다.
  원하는 도서를 저자, 출판사, 제목으로 빠르게 검색하고 찾을 수 있는 기능과 대여 반납하는 기능구현을 목표로 합니다.
 - **세부기능**
@@ -80,8 +80,8 @@
 
 `OpenAPI` `JavaScript` `CSS` `Vue.js`
 
-- **GitHub Repository :** https://github.com/Yang-Seungjae/portfolio
-- **배포 웹페이지 :** https://yang-seungjae.github.io/portfolio/movieIntroduce.html
+- **GitHub Repository :** 깃허브 주소넣기
+- **배포 웹페이지 :** 
 - OpenAPI를 활용한 영화정보 사이트 
 - **세부기능**
     - json 데이터 기반 선택 영화예고편 재생
@@ -99,9 +99,9 @@
 
 `JavaScript` `JQuery` `CSS`
 
-- **GitHub Repository :** https://github.com/Yang-Seungjae/web-basic/tree/master/GameProject
+- **GitHub Repository :** 깃허브 주소넣기
   
-- **배포 웹페이지 :** https://yang-seungjae.github.io/web-basic/GameProject/index.html
+- **배포 웹페이지 :** 
   
 - JavaScript 미니게임
   
@@ -125,9 +125,9 @@
 
 `Java11` `JDBC` `Oracle 21C XE`
 
-- **GitHub Repository :** https://github.com/Yang-Seungjae/Project01_Lib
+- **GitHub Repository :** 깃허브 주소넣기
 
-- **Youtube 시연영상 :** https://youtu.be/M5UjyJQqxVE?si=3uSOlTxJsT6uchlC
+- **Youtube 시연영상 :** 
   
 - 자바 콘솔을 이용한 이메일 서비스 구현
   
